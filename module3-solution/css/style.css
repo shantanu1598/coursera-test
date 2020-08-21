@@ -1,0 +1,38 @@
+
+#navbar-brand{
+	background-color: red;
+	text-align: left;
+	padding-top: : 0;
+}
+
+h2{
+	margin: 10px;
+	text-align: center;
+	padding:10px;
+}
+
+h3{
+	text-align:center;
+}
+.boxDiv1, .boxDiv2, .boxDiv3{
+	height: auto;
+	padding: 20px;;
+	margin: 20px;
+	text-align: justify;
+
+}
+li a{
+	text-align: center;
+	background-color: #f8f8f8;
+	width: 100%;
+}
+.boxDiv1{
+	background-color: #84F4EB ;
+}
+.boxDiv2{
+	background-color: #90F484 ;
+}
+.boxDiv3{
+	background-color: #E5F695 ;
+}
+
